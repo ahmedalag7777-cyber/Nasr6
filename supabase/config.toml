@@ -1,0 +1,17 @@
+project_id = "ffxxjaolfntzbapmfbuv"
+
+[functions.outbox-worker]
+verify_jwt = false
+
+
+[functions.ai-gateway]
+verify_jwt = true
+
+[functions.async-export-download]
+verify_jwt = true
+
+[functions.async-export-worker]
+verify_jwt = true
+
+[functions.product-image-upload]
+verify_jwt = true

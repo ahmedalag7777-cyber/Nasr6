@@ -1,0 +1,25 @@
+{
+  "projectId": "72101472",
+  "functions": {
+    "ai-gateway": {
+      "hasChanged": false,
+      "hash": "efe1f6db4b19b23d9ba0bc16ba129c1230d80abe0703fc6e2321905e1283ec0a"
+    },
+    "outbox-worker": {
+      "hasChanged": false,
+      "hash": "053fb6341282c3b70abe2e9c188c5994f147a7baae61ba48523881d92add306d"
+    },
+    "async-export-download": {
+      "hasChanged": false,
+      "hash": "759d75a870c4d728016e6611fa3036fb6a8bbe38c3718672e9b547474d43815f"
+    },
+    "async-export-worker": {
+      "hasChanged": false,
+      "hash": "c8ee7a060cccd356321045ea55b11204e38303a81e508d6bb0e0af0ffb98c13b"
+    },
+    "product-image-upload": {
+      "hasChanged": false,
+      "hash": "59fcbe5726b77d8500039c81558015dc65f25ff3c7716e3f1b093b14af2796d4"
+    }
+  }
+}
